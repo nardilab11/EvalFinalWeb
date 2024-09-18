@@ -1,0 +1,31 @@
+.buttonMenu {
+    color: white;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 24px;
+    padding: 15px;
+    position: absolute;
+    top: 170px;
+    text-decoration: none;
+    line-height: 140px;
+  }
+.buttonMenu:hover {
+    background-color: #94cfff;
+  }
+body {
+    font-family: Times New Roman, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#boton1 {
+    background-color: #b32ddb;
+    right:53%
+}
+
+#boton2 {
+    background-color: #82db2d;
+    right:37%
+}
